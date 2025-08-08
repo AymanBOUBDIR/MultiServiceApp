@@ -44,7 +44,7 @@ Calcule l’indice de masse corporelle (IMC) à partir du poids et de la taille 
 
 1. Cloner le projet :
    ```bash
-   git clone https://github.com/ton-nom-utilisateur/AppMultiService.git
+   git clone https://github.com/AymanBOUBDIR/AppMultiService.git
 
 # 📦 DEMO 
 
